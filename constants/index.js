@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = https://marvelous-fenglisu-b98281.netlify.app
+export const TOKEN_CONTRACT_ADDRESS = "0x1a86117d795e77102ab79cdec68ca3fff3bfff72"
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
